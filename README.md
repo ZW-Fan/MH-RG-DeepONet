@@ -4,6 +4,8 @@ Reference implementation for the **Multi-Head Residual-Gated DeepONet for Cohere
 
 The manuscript is available: [arXiv:2604.11972](https://arxiv.org/abs/2604.11972)
 
+The dataset can be downloaded from [Dataset](https://doi.org/10.5281/zenodo.19287715)
+
 This repository contains a clean, modular PyTorch codebase for:
 
 - training DeepONet-family baselines on the 1D focusing NLSE collision dataset
