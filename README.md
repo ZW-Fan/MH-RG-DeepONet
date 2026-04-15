@@ -1,6 +1,8 @@
 # MH-RG DeepONet
 
-Reference implementation for the **Multi-Head Residual-Gated DeepONet for Coherent Nonlinear Dynamics**. The manuscript is available: http://arxiv.org/abs/2604.11972
+Reference implementation for the **Multi-Head Residual-Gated DeepONet for Coherent Nonlinear Dynamics**. 
+
+The manuscript is available: [arXiv:2604.11972](https://arxiv.org/abs/2604.11972)
 
 This repository contains a clean, modular PyTorch codebase for:
 
