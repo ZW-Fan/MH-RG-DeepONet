@@ -1,6 +1,6 @@
 # MH-RG DeepONet
 
-Reference implementation for the NLSE collision benchmark from **Multi-Head Residual-Gated DeepONet for Coherent Nonlinear Dynamics**.
+Reference implementation for the **Multi-Head Residual-Gated DeepONet for Coherent Nonlinear Dynamics**. The manuscript is available: http://arxiv.org/abs/2604.11972
 
 This repository contains a clean, modular PyTorch codebase for:
 
