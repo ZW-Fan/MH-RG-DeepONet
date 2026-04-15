@@ -96,4 +96,4 @@ python scripts/noise_study.py --config configs/nlse_noise.yaml
 
 ## Notes
 
-This first public release is intentionally focused on the NLSE collision benchmark only. It is designed as a paper companion repository rather than a full benchmark zoo.
+This first public release is intentionally focused on the NLSE collision benchmark only. It is designed as a paper companion repository.
