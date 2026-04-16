@@ -30,7 +30,6 @@ mh-rg-deeponet/
 ├── scripts/                # CLI entry points
 ├── src/mhrg/               # package source code
 ├── tests/                  # lightweight unit tests
-├── checkpoints/            # saved model checkpoints
 └── outputs/                # metrics, logs, and figures
 ```
 
