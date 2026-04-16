@@ -84,12 +84,6 @@ python scripts/train_nlse.py --config configs/nlse_train.yaml
 python scripts/evaluate_nlse.py --config configs/nlse_eval.yaml
 ```
 
-### Run noise robustness study
-
-```bash
-python scripts/noise_study.py --config configs/nlse_noise.yaml
-```
-
 ## Reproducibility
 
 - train-set statistics only are used for normalization.
