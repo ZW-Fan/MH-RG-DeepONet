@@ -92,11 +92,7 @@ python scripts/noise_study.py --config configs/nlse_noise.yaml
 
 ## Reproducibility
 
-- train-set statistics only are used for global normalization
+- train-set statistics only are used for normalization.
 - all experiment seeds are read from config files
 - checkpoints are saved per seed and per model
 - aggregated results are written to `outputs/metrics/`
-
-## Notes
-
-This first public release is intentionally focused on the NLSE collision benchmark only. It is designed as a paper companion repository.
